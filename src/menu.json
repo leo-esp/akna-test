@@ -1,0 +1,69 @@
+[{
+    "desc": "Principal",
+    "url": "pag_principal.html",
+    "sub": [{
+            "desc": "Livros",
+            "url": "pag_livros.html",
+            "sub": [{
+                    "desc": "Literatura Estrangeira",
+                    "url": "pag_literaest.html"
+                },
+                {
+                    "desc": "Literatura Nacional",
+                    "url": "pag_literanac.html"
+                },
+                {
+                    "desc": "Auto-ajuda",
+                    "url": "pag_autoajuda.html"
+                },
+                {
+                    "desc": "Religião",
+                    "url": "pag_religiao.html"
+                }
+            ]
+        },
+        {
+            "desc": "Eletrodomesticos",
+            "url": "pag_eletro.html",
+            "sub": [{
+                    "desc": "Fogão",
+                    "url": "pag_fogao.html"
+                },
+                {
+                    "desc": "Geladeira",
+                    "url": "pag_geladeira.html"
+                }
+            ]
+        },
+        {
+            "desc": "Jogos",
+            "url": "pag_jogos.html",
+            "sub": [{
+                    "desc": "XBOX",
+                    "url": "pag_xbox.html"
+                },
+                {
+                    "desc": "Playstation",
+                    "url": "pag_ps.html",
+                    "sub": [{
+                            "desc": "PS2",
+                            "url": "pag_ps2.html"
+                        },
+                        {
+                            "desc": "PS3",
+                            "url": "pag_ps3.html"
+                        },
+                        {
+                            "desc": "PS4",
+                            "url": "pag_ps4.html"
+                        }
+                    ]
+                },
+                {
+                    "desc": "Jogos para PC",
+                    "url": "pag_jogospc.html"
+                }
+            ]
+        }
+    ]
+}]

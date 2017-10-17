@@ -1,0 +1,22 @@
+{
+  "name": "test-akna",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "1.0.14"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
+    "reselect": "^3.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
